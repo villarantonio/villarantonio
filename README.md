@@ -1,4 +1,4 @@
-## Hi there, I'm Antonio 👋
+![Header](./github-header-banner (1).png)
 
 🧠 Artificial Inteligence student at UFG
 🔭 Machine Learning, Natural Language Processing and Computer Vision enthusiast
