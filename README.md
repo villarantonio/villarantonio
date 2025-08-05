@@ -1,4 +1,4 @@
-
+Hey there, I'm Antonio! 🤗
 
 🧠 Artificial Inteligence student at UFG
 🔭 Machine Learning, Natural Language Processing and Computer Vision enthusiast
