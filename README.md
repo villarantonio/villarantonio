@@ -2,7 +2,7 @@ Hey there, I'm Antonio! 🤗
 
 🧠 Artificial Inteligence student at UFG
 
-🔭 Machine Learning and Computer Vision enthusiast
+🔭 Natural Language Processing and Agents enthusiast
 
 ✨ Movie lover and alternative music enjoyer
 
