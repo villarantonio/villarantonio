@@ -10,5 +10,7 @@ Hey there, I'm Antonio! 🤗<br>🧠 Artificial Inteligence student at Universid
 # 📊 GitHub Stats:
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=villarantonio&theme=dracula" />
-</div>
+<div align="center">
+  <img align="center" alt="Top Languages" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=villarantonio&theme=dracula&layout=compact&langs_count=6" />
+</p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
