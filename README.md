@@ -1,4 +1,4 @@
-# 💫 About Me:
+﻿# 💫 About Me:
 Hey there, I'm Antonio! 🤗<br>🧠 Artificial Inteligence student at Universidade Federal de Goiás<br><br>🔭 Natural Language Processing and Agents Enthusiast<br><br>✨ Movie lover and alternative music enjoyer
 
 
@@ -13,4 +13,8 @@ Hey there, I'm Antonio! 🤗<br>🧠 Artificial Inteligence student at Universid
 
 
 
-![Snake animation](https://raw.githubusercontent.com/Fabr1n/Fabr1n/main/dist/github-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/villarantonio/villarantonio/output/dist/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/villarantonio/villarantonio/output/dist/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/villarantonio/villarantonio/output/dist/github-contribution-grid-snake.svg">
+</picture>
